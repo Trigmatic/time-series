@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # time-series-forecasting 
 
 This repository contains some projects on time series forecasting.
@@ -50,6 +50,8 @@ This repository contains some projects on time series forecasting.
 
 ### 3E. Future Forecasts
 ![fig](forecasting/sales-forecasting/img/arima4.png)
-=======
+
 # time-series
->>>>>>> b1cfcefd8a15eb0a6e3f7d65e69c8437efefe3f0
+
+# time-series
+
