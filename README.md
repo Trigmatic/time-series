@@ -1,5 +1,5 @@
 
-# time-series-forecasting 
+# time-series
 
 This repository contains some projects on time series forecasting.
 
@@ -51,7 +51,4 @@ This repository contains some projects on time series forecasting.
 ### 3E. Future Forecasts
 ![fig](forecasting/sales-forecasting/img/arima4.png)
 
-# time-series
-
-# time-series
 
